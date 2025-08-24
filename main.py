@@ -5,11 +5,11 @@ import eightball
 import nextwave
 import spotify_playlist
 import bot_message
-
+import os
 
 intents = nextcord.Intents.all()
 client = commands.Bot(command_prefix = "-", intents = intents)
-
+token = os.environ.get("DISCORD_TOKEN")
 
 @client.event
 async def on_ready():
@@ -177,4 +177,5 @@ async def loop(ctx: commands.Context):
         setattr(vc, "loop", False)
 
 
-client.run("MTEyMDc0ODc3NjI4MjQxMTEzOA.GGkDD-.bUE1DHCEJDJb77nQo9nc2MSZt3CtQhVKVXaCBY")
+client.run(token)
+
