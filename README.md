@@ -2,7 +2,7 @@
 
 A Discord bot for playing music and having fun with friends!
 
-✨ Features
+### ✨ Features
 
 🎶 Play songs from YouTube
 
