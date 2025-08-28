@@ -7,10 +7,11 @@ import yt_dlp as ydl
 import urllib.parse
 import asyncio
 from collections import deque
+import os
 
 intents = discord.Intents.all()
 client = commands.Bot(command_prefix="-", intents=intents)
-
+discord_token = os.getenv("DISCORD_TOKEN")
 server_queues = {}
 
 
@@ -321,4 +322,5 @@ async def clear(ctx: commands.Context):
     await ctx.send(embed=embed)
 
 
-client.run("MTEyMDc0ODc3NjI4MjQxMTEzOA.GGkDD-.bUE1DHCEJDJb77nQo9nc2MSZt3CtQhVKVXaCBY")
+client.run(discord_token)
+
