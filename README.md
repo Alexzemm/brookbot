@@ -1,4 +1,4 @@
-#🎵 BrookBot
+#BrookBot
 
 A Discord bot for playing music and having fun with friends!
 
