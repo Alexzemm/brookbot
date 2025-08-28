@@ -12,4 +12,5 @@ A Discord bot for playing music and having fun with friends!
 
 🚀 Add to Your Server
 
-👉 Click here to invite BrookBot
+[👉 Click here to invite BrookBot](https://discord.com/oauth2/authorize?client_id=1120748776282411138&permissions=8&integration_type=0&scope=bot)
+
