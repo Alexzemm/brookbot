@@ -42,5 +42,7 @@ Here are some example commands you can try:
 
 👉 [Click here to invite BrookBot](https://discord.com/oauth2/authorize?client_id=1120748776282411138&permissions=8&integration_type=0&scope=bot)
 
+### ⚠️ Note
 
+This bot is hosted on Railway, and may sometimes be offline due to insufficient Railway credits.
 
