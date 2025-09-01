@@ -23,7 +23,24 @@ Here are some example commands you can try:
 - `-wouldyourather` → Get a random “Would You Rather” question  
 - `-m query` → Custom fun replies using Gemini API  
 
+### 📸 Screenshots
+
+### 🤖 AI Chat (Gemini Integration)
+![AI Chat](assets/bot_message.png)
+
+### 🎶 Music Playback
+![Music Playback](assets/songs.png)
+
+### 🎱 Magic 8-Ball
+![Magic 8-Ball](assets/eightball.png)
+
+### ❓ Would You Rather
+![Would You Rather](assets/wyr.png)
+
+
 ### 🚀 Add to Your Server
 
 👉 [Click here to invite BrookBot](https://discord.com/oauth2/authorize?client_id=1120748776282411138&permissions=8&integration_type=0&scope=bot)
+
+
 
